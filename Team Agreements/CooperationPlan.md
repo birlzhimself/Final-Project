@@ -4,7 +4,7 @@
 
 Guilherme: Knowledge.
 
-Hugo: 
+Hugo: Research, Problem-Solving, Moral Booster and Communication Skills
 
 Diogo: Helpful, Research
 
@@ -12,7 +12,7 @@ Diogo: Helpful, Research
 
 Guilherme: I will use my knowlodge in the implementation phase of the project.
 
-Hugo: 
+Hugo: Always ask if they need assistance, offer comments, and extend a warm welcome in order to ensure that the project and teamwork run smoothly.
 
 Diogo: Attempting to assist my coworkers as much as I can, being resourceful, offering any suggestions, and reporting any issues that may come up.
 
@@ -20,7 +20,7 @@ Diogo: Attempting to assist my coworkers as much as I can, being resourceful, of
 
 Guilherme: Communicate more precisely.
 
-Hugo: 
+Hugo: Self Confidence, Delegate and Prioritize Tasks
 
 Diogo: Organization, Knowledge
 
