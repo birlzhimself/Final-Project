@@ -36,3 +36,10 @@ We're eager to share more details as our project progresses. The realm of cybers
 ## Deliverables
 
 [TeamAgreements](https://github.com/birlzhimself/Final-Project/tree/main/Team%20Agreements)
+
+
+## Team Contributors:
+
+| [![Hugo Rebelo](https://avatars.githubusercontent.com/u/122793759?v=4&s=144)](https://github.com/birlzhimself) | [![Guilherme Cardoso]([https://avatars.githubusercontent.com/u/20626461?v=4&s=144)]([https://github.com/itzvenom](https://avatars.githubusercontent.com/u/37408949?v=4)](https://github.com/GascPT)) | [![Diogo Henriques](https://avatars.githubusercontent.com/u/125299195?v=4&s=144)](https://github.com/diohen90) |
+|---|---|---|
+| [Hugo Rebelo](https://github.com/birlzhimself) | [Sérgio Charruadas](https://github.com/itzvenom) | [Diogo Henriques](https://github.com/diohen90) |
