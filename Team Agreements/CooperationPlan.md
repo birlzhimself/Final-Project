@@ -6,7 +6,7 @@ Guilherme: Knowledge.
 
 Hugo: 
 
-Diogo: 
+Diogo: Helpful, Research
 
 - How can you best utilize these strengths in the execution of your project?
 
@@ -14,7 +14,7 @@ Guilherme: I will use my knowlodge in the implementation phase of the project.
 
 Hugo: 
 
-Diogo: 
+Diogo: Attempting to assist my coworkers as much as I can, being resourceful, offering any suggestions, and reporting any issues that may come up.
 
 - In which professional competencies do you each want to develop greater strength?
 
@@ -22,7 +22,7 @@ Guilherme: Communicate more precisely.
 
 Hugo: 
 
-Diogo: 
+Diogo: Organization, Knowledge
 
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
