@@ -1,8 +1,8 @@
 
 ## August 7, 2023
 
-* GitHub Repository creation ([SimCorp-Project](https://github.com/VascoLucas01/SimCorp-Project))
-* Planning Team Agreements ([TeamAgreements](https://github.com/VascoLucas01/SimCorp-Project/tree/main/TeamAgreements))
+* GitHub Repository creation ([SimCorp-Project](https://github.com/birlzhimself/Final-Project))
+* Planning Team Agreements ([TeamAgreements](https://github.com/birlzhimself/Final-Project/tree/main/Team%20Agreements))
 
 
 ## August 9, 2023
