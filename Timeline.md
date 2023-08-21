@@ -12,31 +12,28 @@
 
 ## August 10, 2023
 
-
-
-## August 11, 2023
-
-
-## August 12, 2023
-
-
-## August 13, 2023
-
+* Threat Modeling creation
+* Report creation
 
 ## August 14, 2023
 
-
-
+* OpenVPN and account credentials received and testing
+* Checking the machines and configuring Snort, WireShark and Splunk
+  
 ## August 15, 2023
 
-
+* Monitoring and log collection of Data Analytics Server (LinSec 1.0) - 10.0.0.123
 
 ## August 16, 2023
 
+* Monitoring and log collection of Accounting1 - 10.0.0.126
 
 ## August 17, 2023
 
-
-
+* Monitoring and log collection CFO-LAPTOP - 10.0.0.206
+  
 ## August 18, 2023
-
+* Monitoring and log collection of the following machines:
+  * Accounting2 - 10.0.0.197
+  * RISK-ANALYST1 - 10.0.0.74
+  * Web1 - 10.0.0.175
