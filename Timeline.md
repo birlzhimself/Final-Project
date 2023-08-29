@@ -47,7 +47,7 @@
 ## August 22 & 23 , 2023
 * Ellaboration of the Cyber Threat Intelligence and Incident Response Report
 
-August 24, 2023
+## August 24, 2023
 * Ellaboration of Cyber Threat Intelligence and Incident Response Report (continuation)
 
 ## August 25, 2023
@@ -55,6 +55,8 @@ August 24, 2023
 
 ## August 27, 2023
 * Ellaboration of Cyber Threat Intelligence and Incident Response Report (continuation)
+* Demo day slide deck - Content
 
 ## August 28, 2023
 * Ellaboration of Cyber Threat Intelligence and Incident Response Report (concluded)
+* Demo day slide deck - Content
