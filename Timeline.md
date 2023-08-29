@@ -39,7 +39,7 @@
   * Web1 - 10.0.0.175
 
 ## August 21, 2023
-* Monitoring and log collection of the following machines:
+* Monitoring and log collection of the following machines: (continuation)
   * Accounting2 - 10.0.0.197
   * RISK-ANALYST1 - 10.0.0.74
   * Web1 - 10.0.0.175
