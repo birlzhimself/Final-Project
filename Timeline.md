@@ -37,3 +37,24 @@
   * Accounting2 - 10.0.0.197
   * RISK-ANALYST1 - 10.0.0.74
   * Web1 - 10.0.0.175
+
+## August 21, 2023
+* Monitoring and log collection of the following machines:
+  * Accounting2 - 10.0.0.197
+  * RISK-ANALYST1 - 10.0.0.74
+  * Web1 - 10.0.0.175
+
+## August 22 & 23 , 2023
+* Ellaboration of the Cyber Threat Intelligence and Incident Response Report
+
+August 24, 2023
+* Ellaboration of Cyber Threat Intelligence and Incident Response Report (continuation)
+
+## August 25, 2023
+* Ellaboration of Cyber Threat Intelligence and Incident Response Report (continuation)
+
+## August 27, 2023
+* Ellaboration of Cyber Threat Intelligence and Incident Response Report (continuation)
+
+## August 28, 2023
+* Ellaboration of Cyber Threat Intelligence and Incident Response Report (concluded)
